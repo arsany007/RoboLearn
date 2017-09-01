@@ -111,7 +111,7 @@ class Main:
 
         return
 
-#Main().Start()
-#Main().HelloWorld()
+Main().Start()
+Main().HelloWorld()
 Main().test()
 
